@@ -2,27 +2,27 @@
 
 ## Common practice
 
-- Rapture Membrane
+- Membrane Rupture
   - Continuous fetal monitor vs. Intermitent monitoring (chose in birth plan)
 
 - While under induce or augmented with oxytocin.
   - Reported: It's harder because the contraction is stronger and the break won't be completely painless compare natural.
   - Requirement: before getting oxytocin, the cervix must be 3 cm dilated.
 
-- Cervidil (Medication)
+- Cervidil (Drugs)
   - help the cervix to dilate
 
 - Morphine
   - Cross placenta only in really long labour.
   - The baby would be born with sedation effect like trouble breathing, not eating, baby would be sleepy.
 
-- Laughing Gaz = Ask OB if available
+- Laughing Gas = Ask OB if available
 
-### How to evaluate if option is a good option at the moment
+### How to evaluate if the option is a good option at the moment
 
 Think about the memo nick BRAIN:
 
-B- benefits
+B- Benefits
 R- Risks
 A- Alternatives
 I- Intuition
@@ -50,7 +50,7 @@ If C-section you will be put under spinal anesthesia.
 - Diminished ability to push effectively.
 - Potential effects on the baby
 
-## Forcep/Vacuum
+## Forceps/Vacuum
 
 - Cons
   - May cause bruise for the baby
@@ -60,19 +60,19 @@ If C-section you will be put under spinal anesthesia.
 - Would allow more tearing
 - Usually cut away from the rectum
 
-## C-Section
+## C-section
 
 - IV line
 - A catheter will be inserted in urea
-- Usually last 5 minutes for delivery
+- Usually last five minutes for delivery
 - Usually last 45 minutes for the whole procedure
 - Allot on pain in the vaginal area
 - Trouble seating
-- There is a delay before the skin to skin with the mother contact because of the remaining steps to complete
+- There is a delay before the skin to skin contact with the mother because of the remaining steps to complete
 - 99.9% they make a bikini cut unless it's a big emergency where's there's not time to do a bikini cut
 - You have to ask if a skin to skin is important with the dad
 
-### What are the common circontance it would be performe
+### What is the common circumstance it would be performed
 
 - Pre-eclampsia
 - Umbilical cord prolapse
