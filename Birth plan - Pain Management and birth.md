@@ -72,7 +72,7 @@ If C-section you will be put under spinal anesthesia.
 - 99.9% they make a bikini cut unless it's a big emergency where's there's not time to do a bikini cut
 - You have to ask if a skin to skin is important with the dad
 
-### What are the common circontance it would be performing
+### What are the common circontance it would be performe
 
 - Pre-eclampsia
 - Umbilical cord prolapse
@@ -82,7 +82,6 @@ If C-section you will be put under spinal anesthesia.
 - Post opts pain is not that bad du to morphine
 - Sedation may interfere with breastfeeding because of mother sleepiness
 
-#### Video from class
-
-- <https://youtu.be/q7io8W6fDek?t=500>
+- Video from class
+  - <https://youtu.be/q7io8W6fDek?t=500>
   
