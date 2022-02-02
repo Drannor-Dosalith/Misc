@@ -1,9 +1,11 @@
+# The first few months
 
-# First day
+## First days
 
 - Second day, baby would probably sleep for 5-6 hour but BE READY he/she'll be hungry when they wakeup.
 - Afterward they should feed 8 or more time in 24h
 - Monitor the amount of wet diaper and amount of stool
+- **Try to be avaiblable for CLSC**
 
 ## Skin care
 
@@ -80,8 +82,6 @@
 - Talk about boundaries
 - Communication is the key
 - Your current situation will change an stay open for it
-
-###### Try to be avaiblable for CLSC
 
 ## COVID-19 Measure
 
