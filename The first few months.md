@@ -78,7 +78,11 @@
 - Breastfeeding woman might ha less vaginal lubrication
 - Talk about boundaries
 - Communication is the key
-- Your current situation will change an stay open for change
+- Your current situation will change an stay open for it
+
+## COVID-19 Measure
+
+- The DAD might not be allowed to get out of the hospital and return.
 
 ## Reference book
 
