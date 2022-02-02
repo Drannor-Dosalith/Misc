@@ -80,10 +80,14 @@
 - Communication is the key
 - Your current situation will change an stay open for it
 
+###### Try to be avaiblable for CLSC
+
 ## COVID-19 Measure
 
 - The DAD might not be allowed to get out of the hospital and return.
 
-## Reference book
+## Reference
 
+> <https://www.laplace0-5.com/>
+> <https://www.bloom-medical.ca/)>
 > <https://www.amazon.ca/Happiest-Block-Revised-Updated-Second/dp/0553393235>
