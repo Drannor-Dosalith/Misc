@@ -2,6 +2,7 @@
 # First day
 
 - Second day, baby would probably sleep for 5-6 hour but BE READY he/she'll be hungry when they wakeup.
+- Afterward they should feed 8 or more time in 24h
 - Monitor the amount of wet diaper and amount of stool
 
 ## Skin care
