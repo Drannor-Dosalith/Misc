@@ -1,10 +1,10 @@
 ---
 CreatedOn: 2022-11-13 22:56
-status: #In-Progress  
+status: "In-Progress" 
 type: "GenericNotes"
 tags: FamilyHome Architect Projects 
 aliases: 
-Updated: 2022-11-14 08:53
+Updated: 2022-11-14 09:10
 ---
 ## Idea, Influence and inspiration
 ---
@@ -39,6 +39,9 @@ Updated: 2022-11-14 08:53
 - Sculpture space in the front
 - Kitchen island
 - Sound proof exterior wall
+- Sound proof and climatized 5' x 7' server room
+- Include cable path in between floor from the server room
+- Smart home feature
 
 ## Nice to have
 ---
